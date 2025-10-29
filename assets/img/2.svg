@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="77px" height="71px" viewBox="0 0 77 71">
+<defs>
+<g id="Symbol_5_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 63.2 41
+L 63.2 5.15 47 13.55 47 5
+Q 47 0 42 0
+L 5 0
+Q 0 0 0 5
+L 0 39
+Q 0 44 5 44
+L 42 44
+Q 47 44 47 39
+L 47 32.3 63.2 41 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 7.4,14.8) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_5_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="77px" height="71px" viewBox="0 0 77 71">
+<defs>
+<image id="Bitmap_1" x="0" y="0" width="3840" height="1080" xlink:href="./images/Bitmap_1.png"/>
+
+<pattern id="Pattern_1" patternUnits="userSpaceOnUse" patternTransform="matrix( 0.794403076171875, 0, 0, 0.794403076171875, -532.6,-375) " width="3840" height="1080">
+<use xlink:href="#Bitmap_1"/>
+</pattern>
+
+<g id="Symbol_6_0_Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 71.8 35.9
+Q 71.8 21.05 61.25 10.5 50.75 0 35.9 0 21.05 0 10.5 10.5 0 21.05 0 35.9 0 50.75 10.5 61.25 21.05 71.8 35.9 71.8 50.75 71.8 61.25 61.25 71.8 50.75 71.8 35.9
+M 58.2 14.45
+Q 67.45 23.7 67.45 36.75 67.45 49.8 58.2 59 49 68.25 35.95 68.25 22.9 68.25 13.65 59 4.45 49.8 4.45 36.75 4.45 23.7 13.65 14.45 22.9 5.2 35.95 5.2 49 5.2 58.2 14.45 Z"/>
+
+<path fill="url(#Pattern_1)" stroke="none" d="
+M 67.45 36.75
+Q 67.45 23.7 58.2 14.45 49 5.2 35.95 5.2 22.9 5.2 13.65 14.45 4.45 23.7 4.45 36.75 4.45 49.8 13.65 59 22.9 68.25 35.95 68.25 49 68.25 58.2 59 67.45 49.8 67.45 36.75 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 0.788299560546875, 0, 0, 0.788299560546875, 11.05,7.85) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Symbol_6_0_Layer0_0_FILL"/>
+</g>
+</g>
+</svg>

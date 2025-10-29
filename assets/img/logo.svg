@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   preserveAspectRatio="none"
+   x="0px"
+   y="0px"
+   width="457.95001"
+   height="107.53651"
+   viewBox="0 0 457.95001 107.53651"
+   id="svg203"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <metadata
+     id="metadata207">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#c9c9c9"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1237"
+     inkscape:window-height="969"
+     id="namedview205"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.2551145"
+     inkscape:cx="202.50027"
+     inkscape:cy="115.99892"
+     inkscape:window-x="43"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg203" />
+  <defs
+     id="defs115">
+    <linearGradient
+       id="Gradient_1"
+       gradientUnits="userSpaceOnUse"
+       x1="-102.1"
+       y1="252.8875"
+       x2="-102.1"
+       y2="152.41251"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#848485"
+         id="stop2" />
+      <stop
+         offset="20.784313725490197%"
+         stop-color="#A3A2A4"
+         id="stop4" />
+      <stop
+         offset="36.470588235294116%"
+         stop-color="#716977"
+         id="stop6" />
+      <stop
+         offset="51.76470588235294%"
+         stop-color="#D6D5D6"
+         id="stop8" />
+      <stop
+         offset="63.529411764705884%"
+         stop-color="#7E747E"
+         id="stop10" />
+      <stop
+         offset="75.68627450980392%"
+         stop-color="#AFACAF"
+         id="stop12" />
+      <stop
+         offset="86.66666666666667%"
+         stop-color="#B2AFB2"
+         id="stop14" />
+      <stop
+         offset="100%"
+         stop-color="#605E5E"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_2"
+       gradientUnits="userSpaceOnUse"
+       x1="-183.75"
+       y1="43.837502"
+       x2="-183.75"
+       y2="32.962502"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#C0423F"
+         id="stop19" />
+      <stop
+         offset="51.76470588235294%"
+         stop-color="#D75A2B"
+         id="stop21" />
+      <stop
+         offset="100%"
+         stop-color="#C43F39"
+         id="stop23" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_3"
+       gradientUnits="userSpaceOnUse"
+       x1="-158.75"
+       y1="45.537498"
+       x2="-158.75"
+       y2="31.262501"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#C2B35E"
+         id="stop26" />
+      <stop
+         offset="51.76470588235294%"
+         stop-color="#FFDD05"
+         id="stop28" />
+      <stop
+         offset="100%"
+         stop-color="#C1AD5A"
+         id="stop30" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_4"
+       gradientUnits="userSpaceOnUse"
+       x1="260.89999"
+       y1="28.450001"
+       x2="260.89999"
+       y2="47.849998"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#024520"
+         id="stop33" />
+      <stop
+         offset="51.76470588235294%"
+         stop-color="#038E41"
+         id="stop35" />
+      <stop
+         offset="100%"
+         stop-color="#055933"
+         id="stop37" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_5"
+       gradientUnits="userSpaceOnUse"
+       x1="-208.25"
+       y1="72.349998"
+       x2="-208.25"
+       y2="52.349998"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#C0423F"
+         id="stop40" />
+      <stop
+         offset="51.76470588235294%"
+         stop-color="#D75A2B"
+         id="stop42" />
+      <stop
+         offset="100%"
+         stop-color="#C43F39"
+         id="stop44" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_6"
+       gradientUnits="userSpaceOnUse"
+       x1="-188.45"
+       y1="69.849998"
+       x2="-188.45"
+       y2="54.849998"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#C2B35E"
+         id="stop47" />
+      <stop
+         offset="51.76470588235294%"
+         stop-color="#FFDD05"
+         id="stop49" />
+      <stop
+         offset="100%"
+         stop-color="#C1AD5A"
+         id="stop51" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_7"
+       gradientUnits="userSpaceOnUse"
+       x1="-154.2"
+       y1="76.75"
+       x2="-154.2"
+       y2="48.349998"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#024520"
+         id="stop54" />
+      <stop
+         offset="51.76470588235294%"
+         stop-color="#038E41"
+         id="stop56" />
+      <stop
+         offset="100%"
+         stop-color="#055933"
+         id="stop58" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_8"
+       gradientUnits="userSpaceOnUse"
+       x1="-147.55"
+       y1="19.9375"
+       x2="-147.55"
+       y2="11.6625"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#C0423F"
+         id="stop61" />
+      <stop
+         offset="51.76470588235294%"
+         stop-color="#D75A2B"
+         id="stop63" />
+      <stop
+         offset="100%"
+         stop-color="#C43F39"
+         id="stop65" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_9"
+       gradientUnits="userSpaceOnUse"
+       x1="-113.7"
+       y1="20.5375"
+       x2="-113.7"
+       y2="11.0625"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#C2B35E"
+         id="stop68" />
+      <stop
+         offset="51.76470588235294%"
+         stop-color="#FFDD05"
+         id="stop70" />
+      <stop
+         offset="100%"
+         stop-color="#C1AD5A"
+         id="stop72" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_10"
+       gradientUnits="userSpaceOnUse"
+       x1="77.949997"
+       y1="22.5375"
+       x2="77.949997"
+       y2="9.0625"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#024520"
+         id="stop75" />
+      <stop
+         offset="51.76470588235294%"
+         stop-color="#038E41"
+         id="stop77" />
+      <stop
+         offset="100%"
+         stop-color="#055933"
+         id="stop79" />
+    </linearGradient>
+    <g
+       id="Layer0_0_FILL">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 159.55,237.25 v 15.7 h 5.65 v -3.85 h 8.7 q 1.6,-0.05 1.55,1.8 v 2.05 H 181 v -3 q 0.05,-2.7 -2.65,-2.85 2.3,-0.35 2.7,-2.6 0.5,-1.8 0.05,-4.3 -1.05,-2.8 -3.25,-2.95 h -18.3 m 5.65,3.95 h 9.45 q 2.15,2.05 0,3.85 h -9.45 v -3.85 m -5.9,-32.3 v 17.45 h 19.2 v -3.8 h -13.4 v -2.95 h 12.15 v -3.95 H 165.1 v -2.5 h 13.4 v -4.25 h -19.2 m 136.9,-20.1 q 11.82578,-1.65684 11.4,-11.25 v -16.7 q -1.98926,-8.23672 -10.6,-9.25 h -57.2 v 47.6 h 18.8 v -10.4 h 37.6 M 258.4,175.2 V 163.6 H 287 q 3.70137,-0.13418 3.8,5.6 0.2875,6.025 -3.8,6 h -28.6 m -80.8,13.6 v -8 h 41 V 170 h -41 v -6.8 h 45.2 V 151.6 H 158 v 47.6 h 64.8 v -10.4 h -45.2 m 264.1,-37.2 h -29.3 v 47.6 H 431 v -31.05 l 20.3,31.05 h 16.2 L 489.4,166 v 33.2 h 18.2 v -47.6 h -28.9 l -18.3,30.65 -18.7,-30.65 m -69.6,36 q 5.26387,-0.14512 5.1,5.5 v 6.1 h 18.3 v -9.1 q 0.17637,-8.09004 -8.7,-8.6 7.45801,-1.05938 8.8,-7.9 1.58516,-5.52246 0.2,-13.05 -3.48477,-8.47988 -10.75,-8.95 H 324.8 v 47.6 h 18.6 v -11.6 h 28.7 m -28.65,-12.4 v -11.6 h 31.1 q 4.35078,0.30469 3.9,5.8 0.0957,5.72441 -3.9,5.8 z"
+         id="path82" />
+      <path
+         fill="url(#Gradient_1)"
+         stroke="none"
+         d="M 61.9,151.45 49.65,163.7 q 4.386328,6.72363 4.9,16.55 0.520703,9.83672 -1.65,20.8 -2.174414,11.00801 -2.75,16.25 -0.55957,5.28926 3.15,10.8 3.700195,5.5125 15.4,10.05 11.752734,4.58164 18.95,8.85 4.817578,2.85977 8.2,6.8 3.188477,-3.47559 7.55,-6.05 7.2,-4.25 18.9,-8.8 11.75,-4.6 15.45,-10.1 3.7,-5.5 3.15,-10.75 -0.6,-5.3 -2.75,-16.25 -2.15,-11 -1.65,-20.85 0.5,-9.85 4.9,-16.55 0.16152,-0.2625 0.3,-0.55 L 129.25,151.45 H 61.9 m 28.5,60.65 h 45.1 z"
+         id="path84" />
+    </g>
+    <g
+       id="Symbol_1_0_Layer0_0_FILL">
+      <path
+         fill="#0b4e99"
+         stroke="none"
+         d="M 3.45,2.05 2.65,0 1.8,2.05 H 0 L 1.35,3.15 0.8,5.7 2.75,4.25 4.65,5.65 3.95,3.35 5.7,2.05 Z"
+         id="path87" />
+    </g>
+    <g
+       id="Symbol_2_0_Layer0_0_FILL">
+      <path
+         fill="#414141"
+         stroke="none"
+         d="m 35.5,0.05 q -0.85,0 -1.5,0.65 -0.6,0.7 -0.6,1.65 v 63.4 q 0,0.95 0.6,1.6 0.65,0.7 1.5,0.7 0.85,0 1.45,-0.7 0.65,-0.65 0.65,-1.6 V 2.35 Q 37.6,1.4 36.95,0.7 36.35,0.05 35.5,0.05 M 2.1,0 Q 1.25,0 0.6,0.6 0,1.25 0,2.1 v 58.2 q 0,0.85 0.6,1.45 0.65,0.65 1.5,0.65 0.85,0 1.45,-0.65 Q 4.2,61.15 4.2,60.3 V 2.1 Q 4.2,1.25 3.55,0.6 2.95,0 2.1,0 m 65.6,0 q -0.85,0 -1.5,0.6 -0.6,0.65 -0.6,1.5 v 58.2 q 0,0.85 0.6,1.45 0.65,0.65 1.5,0.65 0.85,0 1.45,-0.65 0.65,-0.6 0.65,-1.45 V 2.1 Q 69.8,1.25 69.15,0.6 68.55,0 67.7,0 Z"
+         id="path90" />
+    </g>
+    <g
+       id="Symbol_3_0_Layer0_0_FILL">
+      <path
+         fill="url(#Gradient_2)"
+         stroke="none"
+         d="M 12.65,32.65 H 5.4 Q 5.15,38.2 4.15,44.15 h 8.5 z"
+         id="path93" />
+      <path
+         fill="url(#Gradient_3)"
+         stroke="none"
+         d="m 51.85,44.15 v -11.5 h -39.2 v 11.5 z"
+         id="path95" />
+      <path
+         fill="url(#Gradient_4)"
+         stroke="none"
+         d="m 79.25,32.65 h -27.4 v 11.5 h 28.5 Q 79.4,38.2 79.25,32.65 Z"
+         id="path97" />
+      <path
+         fill="url(#Gradient_5)"
+         stroke="none"
+         d="m 1.85,56.95 q -0.3,2.15 -0.5,3.7 -0.3,3.5 1.3,7.1 h 16.2 v -10.8 z"
+         id="path99" />
+      <path
+         fill="url(#Gradient_6)"
+         stroke="none"
+         d="M 37.55,57 36.9,56.95 H 18.85 v 10.8 h 18.7 V 57 M 36.9,56.95 37.55,57 v -0.05 z"
+         id="path101" />
+      <path
+         fill="url(#Gradient_7)"
+         stroke="none"
+         d="M 83.25,61.35 Q 83.051953,59.518164 82.65,57 H 37.55 V 67.75 H 82.3 q 1.3,-3.25 0.95,-6.4 M 82.65,57 q 0.0039,-0.02481 0,-0.05 H 37.55 V 57 Z"
+         id="path103" />
+      <path
+         fill="url(#Gradient_8)"
+         stroke="none"
+         d="m 35.85,20.55 v -9.5 H 3.65 v 6.2 q 0.55,1.65 0.9,3.3 z"
+         id="path105" />
+      <path
+         fill="url(#Gradient_9)"
+         stroke="none"
+         d="m 74.15,20.55 v -9.5 h -38.3 v 9.5 z"
+         id="path107" />
+      <path
+         fill="url(#Gradient_10)"
+         stroke="none"
+         d="m 81.75,15.6 v -4.55 h -7.6 v 9.5 h 6 q 0.6,-2.65 1.6,-4.95 z"
+         id="path109" />
+    </g>
+    <path
+       id="Layer0_0_1_STROKES"
+       stroke="#967a73"
+       stroke-width="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       fill="none"
+       d="m 90.4,212.1 h 45.1" />
+    <path
+       id="Symbol_3_0_Layer0_0_1_STROKES"
+       stroke="#967a73"
+       stroke-width="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       fill="none"
+       d="m 74.15,11.05 h 7.6 v 4.55 m -1.6,4.95 h -6 -38.3 -31.3 m -0.9,-3.3 v -6.2 h 32.2 38.3 v 9.5 m -36.6,36.4 V 57 h 45.1 M 82.3,67.75 H 37.55 18.85 2.65 m -0.8,-10.8 h 17 18.05 0.65 m 14.3,-24.3 h 27.4 m 1.1,11.5 h -28.5 v 0.3 m 0,-11.8 v 11.5 H 12.65 4.15 M 5.4,32.65 h 7.25 39.2 m -16,-21.6 v 9.5 m -23.2,12.1 v 11.5 M 36.9,56.95 37.55,57 v 10.75 m -18.7,-10.8 v 10.8" />
+    <path
+       id="Symbol_4_0_Layer0_0_1_STROKES"
+       stroke="#3b3838"
+       stroke-width="1"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       fill="none"
+       d="M 9.8,0 0,9.35 q 2.35,3.85 3.65,7.9 0.55,1.65 0.9,3.3 0.65,2.9 0.8,5.95 0.15,3 0.05,6.15 Q 5.15,38.2 4.15,44.15 4,44.9 3.85,45.7 q -1.3,6.8 -2,11.25 -0.3,2.15 -0.5,3.7 -0.3,3.5 1.3,7.1 0.65,1.4 1.55,2.8 3.35,5.1 13.95,9.3 10.55,4.2 17,8.1 4.4,2.65 7.45,6.35 2.85,-3.3 6.85,-5.65 6.45,-3.9 17,-8.1 10.6,-4.25 13.95,-9.3 1.15,-1.75 1.9,-3.5 1.3,-3.25 0.95,-6.4 -0.198047,-1.831836 -0.6,-4.35 0.0039,-0.02481 0,-0.05 -0.7,-4.25 -1.9,-10.55 -0.2,-1.15 -0.4,-2.25 -0.95,-5.95 -1.1,-11.5 -0.1,-2.75 0.05,-5.45 0.15,-3.55 0.85,-6.65 0.6,-2.65 1.6,-4.95 0.85,-1.95 1.95,-3.65 0.1,-0.25 1.05,-2.35 l -9.4,-9.45 z" />
+  </defs>
+  <use
+     xlink:href="#Layer0_0_FILL"
+     id="use117"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     transform="translate(-49.65,-151.45)" />
+  <use
+     xlink:href="#Layer0_0_1_STROKES"
+     id="use119"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%"
+     transform="translate(-49.65,-151.45)" />
+  <g
+     transform="translate(13.2,6.4)"
+     id="g127">
+    <g
+       id="g125">
+      <use
+         xlink:href="#Symbol_1_0_Layer0_0_FILL"
+         id="use123"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
+  <g
+     transform="translate(43.5,6.4)"
+     id="g133">
+    <g
+       id="g131">
+      <use
+         xlink:href="#Symbol_1_0_Layer0_0_FILL"
+         id="use129"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
+  <g
+     transform="translate(73.2,6.4)"
+     id="g139">
+    <g
+       id="g137">
+      <use
+         xlink:href="#Symbol_1_0_Layer0_0_FILL"
+         id="use135"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
+  <g
+     transform="translate(43.2,86.8)"
+     id="g145">
+    <g
+       id="g143">
+      <use
+         xlink:href="#Symbol_1_0_Layer0_0_FILL"
+         id="use141"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
+  <g
+     transform="translate(10.95,13.75)"
+     id="g151">
+    <g
+       id="g149">
+      <use
+         xlink:href="#Symbol_2_0_Layer0_0_FILL"
+         id="use147"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+  </g>
+  <g
+     transform="translate(3.2,3.15)"
+     id="g165">
+    <g
+       id="g157">
+      <use
+         xlink:href="#Symbol_3_0_Layer0_0_FILL"
+         id="use153"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#Symbol_3_0_Layer0_0_1_STROKES"
+         id="use155"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <g
+       id="g163">
+      <g
+         id="g161">
+        <use
+           xlink:href="#Symbol_4_0_Layer0_0_1_STROKES"
+           id="use159"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(0.92002869,0,0,0.75990295,50.55,51.2)"
+     id="g174">
+    <clipPath
+       id="Mask_Mask_1">
+      <rect
+         x="-2"
+         y="-2"
+         width="335.20001"
+         height="41.650002"
+         fill="#ffffff"
+         stroke="none"
+         id="rect167" />
+    </clipPath>
+    <text
+       clip-path="url(#Mask_Mask_1)"
+       writing-mode="lr-tb"
+       id="text172"><tspan
+         x="86.150002"
+         y="31.15"
+         baseline-shift="0%"
+         font-family="Verdana"
+         font-weight="bold"
+         font-size="31px"
+         fill="#ffffff"
+         xml:space="preserve"
+         id="tspan170">nterprise</tspan></text>
+  </g>
+  <g
+     transform="matrix(0.93800354,0,0,0.75990295,219.75,51)"
+     id="g183">
+    <clipPath
+       id="Mask_Mask_2">
+      <rect
+         x="-2"
+         y="-2"
+         width="335.20001"
+         height="41.650002"
+         fill="#ffffff"
+         stroke="none"
+         id="rect176" />
+    </clipPath>
+    <text
+       clip-path="url(#Mask_Mask_2)"
+       writing-mode="lr-tb"
+       id="text181"><tspan
+         x="75.400002"
+         y="31.15"
+         baseline-shift="0%"
+         font-family="Verdana"
+         font-weight="bold"
+         font-size="31px"
+         fill="#ffffff"
+         xml:space="preserve"
+         id="tspan179">Protection</tspan></text>
+  </g>
+  <g
+     transform="matrix(1.0549164,0,0,0.75990295,-10.95,78.2)"
+     id="g192">
+    <clipPath
+       id="Mask_Mask_3">
+      <rect
+         x="-2"
+         y="-2"
+         width="335.20001"
+         height="41.650002"
+         fill="#ffffff"
+         stroke="none"
+         id="rect185" />
+    </clipPath>
+    <text
+       clip-path="url(#Mask_Mask_3)"
+       writing-mode="lr-tb"
+       id="text190"><tspan
+         x="140.7"
+         y="31.15"
+         baseline-shift="0%"
+         font-family="Verdana"
+         font-weight="bold"
+         font-size="31px"
+         fill="#ffffff"
+         xml:space="preserve"
+         id="tspan188">isk</tspan></text>
+  </g>
+  <g
+     transform="matrix(1.1074219,0,0,0.75990295,150.35,79)"
+     id="g201">
+    <clipPath
+       id="Mask_Mask_4">
+      <rect
+         x="-2"
+         y="-2"
+         width="335.20001"
+         height="41.650002"
+         fill="#ffffff"
+         stroke="none"
+         id="rect194" />
+    </clipPath>
+    <text
+       clip-path="url(#Mask_Mask_4)"
+       writing-mode="lr-tb"
+       id="text199"><tspan
+         x="53.200001"
+         y="31.15"
+         baseline-shift="0%"
+         font-family="Verdana"
+         font-weight="bold"
+         font-size="31px"
+         fill="#ffffff"
+         xml:space="preserve"
+         id="tspan197">Management</tspan></text>
+  </g>
+</svg>

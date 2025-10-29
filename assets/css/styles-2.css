@@ -1,0 +1,164 @@
+.wrapper{
+    background-color: var(--navy-tint);
+}
+.text-blue {
+    color: var(--navy-tint);
+}
+.bg-blue {
+    background-color: var(--navy-tint);
+}
+.min-blue-header-height {
+    min-height: 154px;
+}
+.page-main-img {
+    padding: 20px;
+    background-color: white;
+    height: auto;
+    cursor: pointer;
+}
+.page-main-img-2 {
+    padding: 20px;
+    background-color: white;
+    height: auto;
+    cursor: pointer;
+    margin: 20px 0px 20px 20px;
+    float: right;
+    width: 500px;
+}
+.page-main-img.text-wrap {
+    margin: 20px 0px 20px 20px;
+    float: right;
+    width: 500px;
+}
+.page-main-img.normal {
+    margin: 20px 0px;
+    float: unset;
+    width: auto;
+}
+.logo-size-left{
+    width: 100px;
+    padding-left: 30px;
+    justify-content: center;
+}
+.logo-size-left-2{
+    width: auto;
+    max-height: 120px;
+    justify-content: center;
+}
+.logo-size-rigth{
+    width: 180px;
+    justify-content: center;
+}
+.wrapper-body{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.text-white{
+    color: white;
+}
+.title-bg::before{
+    background-color: var(--navy-tint);
+    width: 20px;
+    height: 20px;
+}
+.small-screen{
+    display: none;
+}
+.federal_img {
+    max-width: 300px;
+}
+@media (max-width: 1400px) and (min-width: 1201px){
+    .logo-size-rigth{
+        width: 150px;
+    }
+}
+@media (max-width: 1200px) and (min-width: 1025px){
+    .logo-size-rigth{
+        width: 130px;
+    }
+    .logo-size-left{
+        width: 100px;
+    }
+    .federal_img{
+        width: 250px;
+    }
+}
+@media (max-width: 1024px) and (min-width: 990px){
+    .logo-size-rigth{
+        width: 130px;
+    }
+    .logo-size-left{
+        width: 90px;
+    }
+    .federal_img{
+        width: 250px;
+    }
+}
+@media (max-width: 988px) and (min-width: 768px){
+    .logo-size-rigth{
+        width: 120px;
+    }
+    .logo-size-left{
+        width: 90px;
+    }
+    .logo-size-left-2{
+        width: 80px;
+    }
+    .text-title{
+        font-size: 24px;
+    }
+    .text-subtitle{
+        font-size: 16px;
+    }
+    .title-wrapper{
+        width: 400px;
+        justify-content: center;
+    }
+    .federal_img{
+        width: 250px;
+    }
+}
+@media (max-width: 768px) and (min-width: 535px){
+    .big-screens{
+        display: none !important;
+    }
+    .logo-size-left-2{
+        width: 80px;
+    }
+    .small-screen{
+        display: block;
+    }
+    .small-screen-logo1{
+        width: 75px;
+        padding: 5px;
+    }
+    .small-screen-logo2{
+        width: 180px;
+        padding: 5px;
+    }
+    .federal_img{
+        width: 250px;
+    }
+}
+@media (max-width: 534px) and (min-width: 370px){
+    .big-screens{
+        display: none !important;
+    }
+    .logo-size-left-2{
+        width: 80px;
+    }
+    .small-screen{
+        display: block;
+    }
+    .federal_img{
+        width: 250px;
+    }
+    .small-screen-logo1{
+        width: 75px;
+        padding: 5px;
+    }
+    .small-screen-logo2{
+        width: 180px;
+        padding: 5px;
+    }
+}
